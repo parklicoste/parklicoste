@@ -32,6 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parklicoste&show_icons=true&locale=en" alt="parklicoste" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parklicoste&" alt="parklicoste" /></p>
-<img src="https://raw.githubusercontent.com/parklicoste/parklicoste/output/snake.svg" alt="Snake animation" />
 
 
