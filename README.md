@@ -33,4 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parklicoste&" alt="parklicoste" /></p>
 
-
+## Snake eating my contribution graph
+![snake gif](https://github.com/parklicoste/parklicoste/blob/output/github-contribution-grid-snake.gif)
